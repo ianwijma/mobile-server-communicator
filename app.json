@@ -1,0 +1,12 @@
+{
+  "name": "mobile-server-communicator",
+  "displayName": "mobile-server-communicator",
+  "expo": {
+    "name": "mobile-server-communicator",
+    "slug": "mobile-server-communicator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
